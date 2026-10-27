@@ -14,8 +14,8 @@ El código fuente vive en:
 
 ## Ejecutar
 ```bash
-git clone <link-repo-principal>
-cd <nombre-repo>
+git clone https://github.com/Riesedust/Cliniturnos-DOCS
+cd Cliniturnos-DOCS
 docker compose up --build
 ```
 
